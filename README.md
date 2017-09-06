@@ -1,1 +1,1 @@
-# cosmos-willow-app
+# Willow-Cosmos
